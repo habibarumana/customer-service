@@ -1,0 +1,101 @@
+[
+  {
+    "id": 101,
+    "title": "Login Issues - Can't Access Account",
+    "status": "Open",
+    "description": "Customer is unable to log in to their account.They've tried resetting their password multiple times.....",
+    "priority": "HIGH",
+    "customer": "Michael Brown",
+    "createdAt": "01-05-2024"
+  },
+  {
+    "id": 102,
+    "title": "Payment Failure on Checkout",
+    "status": "In Progress",
+    "description": "Several users are reporting that credit card transactions fail during checkout.The issue occurs ....",
+    "priority": "HIGH",
+    "customer": "Cristian D'suza",
+    "createdAt": "02-03-2024"
+  },
+  {
+    "id": 103,       
+    "title": "Password Reset Email Not Received",
+    "status": "Open",
+    "description": "Password reset links are not being sent to customers' registered emails.Affected users cannot log in or....",
+    "priority": "MEDIUM",
+    "customer": "David Smith",
+    "createdAt": "09-01-2024"
+  },
+  {
+    "id": 104,
+    "title": "App Crashing on Android 14",
+    "status": "Open",
+    "description": "Mobile app crashes immediately on startup for Android 14 users.The crash happens without any error message.",
+    "priority": "HIGH",
+    "customer": "Brett Lee",
+    "createdAt": "20-05-2024"
+  },
+  {
+    "id": 105,
+    "title": "Slow Dashboard Loading",
+    "status": "In Progress",
+    "description": "Admin dashboard takes more than 25 seconds to load.Performance drops significantly during peak hours.",
+    "priority": "LOW",
+    "customer": "David Luis",
+    "createdAt": "03-07-2024"
+  },
+  {
+    "id": 106,
+    "title": "Refund Not Processed",
+    "status": "Open",
+    "description": "Customer did not receive refund for a cancelled order.\nSupport team has been notified but resolution is pending.",
+    "priority": "HIGH",
+    "customer": "Marnie Chan",
+    "createdAt": "09-06-2024"
+  },
+  {
+    "id": 107,
+    "title": "Two-Factor Authentication Failing",
+    "status": "In Progress",
+    "description": "2FA codes are being rejected despite being valid.Users are unable to log in until this is fixed.",
+    "priority": "HIGH",
+    "customer": "John Sina",
+    "createdAt": "05-05-2024"
+  },
+  {
+    "id": 108,
+    "title": "Report Download Stuck",
+    "status": "Open",
+    "description": "Monthly sales report download freezes at 50%.\nCustomer cannot download their January invoice from the billing section.",
+    "priority": "LOW",
+    "customer": "Sergio Leo",
+    "createdAt": "05-08-2024"
+  },
+  {
+    "id": 109,
+    "title": "Order Status Not Updating",
+    "status": "In Progress",
+    "description": "Order stuck on Customer cannot download their January invoice from the billing section.The download button is not responding.",
+    "priority": "HIGH",
+    "customer": "Sebastian Klein",
+    "createdAt": "26-09-2024"
+  },
+  {
+    "id": 110,
+    "title": "Suspicious Login Attempts",
+    "status": "Open",
+    "description": "Customer reports multiple suspicious login attempts.Immediate investigation required to secure the account.",
+    "priority": "MEDIUM",
+    "customer": "Shin Chan",
+    "createdAt": "08-03-2024"
+  },
+  {
+    "id": 111,
+    "title": "Delayed Notifications",
+    "status": "Open",
+    "description": "Push notifications on iOS arrive 20–30 minutes late.Users report missing important ...",
+    "priority": "MEDIUM",
+    "customer": "Nobita Nobi",
+    "createdAt": "08-06-2024"
+  }
+]
